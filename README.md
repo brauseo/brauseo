@@ -21,7 +21,7 @@ In addition, I am expanding my knowledge on Integration and Continuous Data Proc
 I am always seeking to improve my skills and stay updated with the latest trends and technologies in the field of data science and machine learning.
 
 
-When I'm not working on data projects, I enjoy reading science fiction novels and writing my own short stories. I'm also a huge fan of biking, whether it's cruising down the beach boardwalk or navigating the busy city streets. And let's not forget, I'm a huge fan of pasta dishes as well!</p>
+When I'm not working on data projects, I enjoy reading science fiction novels and writing my own short stories. I'm also a huge fan of biking, whether it's cruising down the beach boardwalk or navigating the busy city streets in search of the best sweet cornmeal couscous in town.</p>
       <p>You can find me at:</p>
       <ul>
         <li><a href="https://www.linkedin.com/in/biancarauseo">LinkedIn</a></li>
