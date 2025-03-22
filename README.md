@@ -12,5 +12,7 @@ I am a data-driven professional with experience in demand forecasting and planni
 ## You Can Find Me At:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/biancarauseo/?locale=en_US)
+[![Xing]([https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white](https://img.icons8.com/?size=512&id=13979&format=png))](https://www.xing.com/profile/Bianca_Rauseo)
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.kaggle.com/biancarauseo)
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@biancarauseo)
+
+
